@@ -37,7 +37,7 @@ export const styles = StyleSheet.create({
     marginBottom: 2,
   },
   usernameText: {
-    fontSize: 16,
+    fontSize: 15,
     fontWeight: "600",
     color: COLORS.text,
   },
@@ -53,7 +53,7 @@ export const styles = StyleSheet.create({
   },
   addButton: {
     backgroundColor: COLORS.primary,
-    paddingHorizontal: 16,
+    paddingHorizontal: 10,
     paddingVertical: 10,
     borderRadius: 24,
     flexDirection: "row",
@@ -122,7 +122,7 @@ export const styles = StyleSheet.create({
     marginBottom: 4,
   },
   balanceStatAmount: {
-    fontSize: 18,
+    fontSize: 14,
     fontWeight: "600",
   },
   sectionTitle: {
